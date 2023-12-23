@@ -48,4 +48,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishanburchunde2003&theme=radical" alt="Ishanburchunde2003" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ishanburchunde2003&show_icons=true&locale=en&theme=radical" alt="Ishanburchunde2003" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishanburchunde2003&show_icons=true&locale=en&layout=compact&theme=radical" alt="Ishanburchunde2003" /></p>
+
