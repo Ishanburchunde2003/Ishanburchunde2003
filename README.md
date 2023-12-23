@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ishanburchunde2003.Ishanburchunde2003" />
 
 
-![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+![MasterHead](https://www.sherpadesk.com/hubfs/Blog%20Images/IT%20Helpdesks%20The%20Key%20to%20Digital%20Transformation%20Success/Featured_Digital.gif)
 <h1 align="center">Hi 👋, I'm Ishan Burchunde</h1>
 <h3 align="center">Electronics and Telecommunication Engineering Student From India IND</h3>
 <br>
@@ -14,7 +14,7 @@
 <br>
 
 <div align="center">
-  <a href="mailto:ishanburchunde03@gmail.com">
+  <a href="mailto:iburchunde@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="http://linkedin.com/in/ishan-burchunde-282645151" target="_blank">
@@ -48,4 +48,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishanburchunde2003&theme=radical" alt="Ishanburchunde2003" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ishanburchunde2003&show_icons=true&locale=en&theme=radical" alt="Ishanburchunde2003" /></p>
+
 
