@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ishanburchunde2003.Ishanburchunde2003" />
 
 
-![MasterHead](https://drive.google.com/drive/u/0/search?q=profile)
+![MasterHead](https://www.sherpadesk.com/hubfs/Blog%20Images/IT%20Helpdesks%20The%20Key%20to%20Digital%20Transformation%20Success/Featured_Digital.gif)
 <h1 align="center">Hi 👋, I'm Ishan Burchunde</h1>
 <h3 align="center">Electronics and Telecommunication Engineering Student From India IND</h3>
 <br>
