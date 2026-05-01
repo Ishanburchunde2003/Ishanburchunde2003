@@ -21,8 +21,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 
-## What are my featured projects? <img src="https://user-images.githubusercontent.com/99719265/222153230-7756628c-4daf-4d16-9f06-e52ac3955942.gif" width="30px"> 
-<code>[Random-Number-Game ](https://lnkd.in/dEeUpyXY)</code>🍵:<code>[Rock-paper-Scissors-Game](https://lnkd.in/dyE4Pznm)</code>:<code>[Tic-Tac-Toe-Game](https://lnkd.in/d9haxMVT)</code>:<code>[Connect-4-Game](https://lnkd.in/d_Qn_aS2)</code>:
+
 
 
 
