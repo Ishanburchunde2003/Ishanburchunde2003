@@ -14,7 +14,7 @@
 <br>
 
 <div align="center">
-  <a href="mailto:iburchunde@gmail.com">
+  <a href="mailto:work.ishanburchunde@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="http://linkedin.com/in/ishan-burchunde-282645151" target="_blank">
