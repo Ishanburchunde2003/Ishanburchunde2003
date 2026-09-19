@@ -1,23 +1,21 @@
 <div align="center">
-  <!-- Glowing Cyberpunk Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=ISHAN%20BURCHUNDE&fontSize=48&fontAlignY=38&desc=Electronics%20%26%20Telecommunication%20Engineer%20%7C%20Data%20Science%20%26%20IoT&descAlignY=58&descSize=16&fontColor=ffffff" width="100%" />
+
+  <!-- Aesthetic Native Header (Guaranteed No Broken Images) -->
+  <br>
+  <h1>⚡ ISHAN BURCHUNDE ⚡</h1>
+  <p><b>Electronics & Telecommunication Engineering Student | India 🇮🇳</b></p>
+  <p><i>Building at the intersection of Data Science, Machine Learning & Internet of Things (IoT)</i></p>
 
   <br>
 
-  <!-- Modern Pill Status Badges -->
-  <a href="https://github.com/Ishanburchunde2003">
-    <img src="https://img.shields.io/badge/📍_Location-India-1F2937?style=for-the-badge&labelColor=111827&color=6366F1" />
-  </a>
-  <a href="https://github.com/Ishanburchunde2003">
-    <img src="https://img.shields.io/badge/🎓_Degree-E%26TC_Engineering-1F2937?style=for-the-badge&labelColor=111827&color=8B5CF6" />
-  </a>
-  <a href="https://github.com/Ishanburchunde2003">
-    <img src="https://img.shields.io/badge/🚀_Focus-Data_Science_%26_IoT-1F2937?style=for-the-badge&labelColor=111827&color=EC4899" />
-  </a>
+  <!-- Status & Info Badges -->
+  <img src="https://img.shields.io/badge/Status-Engineering%20Student-blueviolet?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20IoT-00D9FF?style=for-the-badge&logo=python" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ishanburchunde2003.Ishanburchunde2003&left_color=1D1F21&right_color=00D9FF&left_text=Views" />
 
   <br><br>
 
-  <!-- Social Icons Bar -->
+  <!-- Connect Links -->
   <a href="mailto:work.ishanburchunde@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ishan-burchunde-282645151" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/IBurchunde_" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -26,27 +24,28 @@
 
 </div>
 
-<br><br>
+<hr style="border: 1px solid #30363d;">
 
-<!-- About Section -->
-<table border="0">
+<br>
+
+<!-- About Me - Clean 2-Column Grid -->
+<table width="100%" border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ Quick Overview</h3>
+      <h3>👨‍💻 About Me</h3>
       <ul>
-        <li>🔭 Working on <b>Real-World Datasets</b> & ML models</li>
-        <li>🌱 Mastermind behind <b>IoT & Embedded Systems</b> projects</li>
-        <li>💡 Passionate about turning raw data into actionable insights</li>
+        <li>🔭 Currently working on <b>Real-World Datasets</b> & predictive ML models</li>
+        <li>🌱 Deep diving into <b>Internet of Things (IoT)</b> & embedded systems</li>
+        <li>🎓 Pursuing <b>Electronics & Telecommunication Engineering</b></li>
         <li>⚡ <b>Fun Fact:</b> The concept of <i>ZERO</i> originated in India 🇮🇳</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🎯 Current Goals</h3>
+      <h3>🎯 Tech Interests</h3>
       <ul>
-        <li>📡 Building smart IoT edge devices</li>
-        <li>📊 Deep diving into Predictive Analytics</li>
-        <li>🐍 Advanced Python & C++ System Architectures</li>
-        <li>📸 Creative direction in photography & visual design</li>
+        <li>📊 <b>Data Science & Analytics:</b> Extracting intelligence from raw data</li>
+        <li>📡 <b>IoT & Hardware:</b> Bridging code with hardware sensors & microcontrollers</li>
+        <li>🎨 <b>Creative Media:</b> Photography & visual design using Photoshop & Lightroom</li>
       </ul>
     </td>
   </tr>
@@ -54,40 +53,38 @@
 
 <br>
 
-<!-- Tech Stack Section -->
-<h2 align="center">🛠️ Tech Arsenal & Frameworks</h2>
+<hr style="border: 1px solid #30363d;">
+
+<br>
+
+<!-- Tech Arsenal Section -->
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
 <div align="center">
 
-  <p><b>Languages & Core Tech</b></p>
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,arduino,mysql&theme=dark" />
+  <p><b>Languages & Core Tools</b></p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,mysql,vscode,anaconda&theme=dark" />
 
   <br><br>
 
-  <p><b>Data Science & Tools</b></p>
-  <img src="https://skillicons.dev/icons?i=vscode,anaconda,ps,pr,figma&theme=dark" />
-  
-  <br><br>
-
-  <!-- High quality pill badges for specific libraries -->
+  <p><b>Data Science & Creative Stack</b></p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
 
 </div>
 
 <br><br>
 
-<!-- GitHub Stats Section -->
-<h2 align="center">📈 GitHub Telemetry</h2>
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ishanburchunde2003&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanburchunde2003&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF" />
-</div>
+<hr style="border: 1px solid #30363d;">
 
 <br>
+
+<!-- GitHub Stats Section (Using the stable streak server that worked for you) -->
+<h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishanburchunde2003&theme=tokyonight&hide_border=true" width="90%" />
@@ -95,7 +92,6 @@
 
 <br><br>
 
-<!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=100&section=footer" width="100%" />
+  <sub>Designed & Developed by Ishan Burchunde</sub>
 </div>
